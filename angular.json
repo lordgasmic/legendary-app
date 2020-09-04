@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "lordgasmic-webapp"
+  "defaultProject": "lordgasmic-webapp",
+  "cli": {
+    "analytics": false
+  }
 }
